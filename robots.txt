@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omar-mega-byte.github.io/java-fundamentals-for-spring/sitemap.xml

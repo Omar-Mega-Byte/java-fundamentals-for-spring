@@ -2,6 +2,17 @@
 
 A comprehensive reference guide covering essential Java concepts needed to master Spring Framework.
 
+## 🌐 Interactive Website
+
+Visit our interactive website: **[https://omar-mega-byte.github.io/java-fundamentals-for-spring](https://omar-mega-byte.github.io/java-fundamentals-for-spring)**
+
+The website features:
+- 📱 Responsive design for all devices
+- 🔍 Search functionality across all modules
+- 📊 Progress tracking while reading
+- 🎯 Quick navigation between modules
+- ⚡ Fast loading and smooth animations
+
 ## 📚 Module Structure
 
 This guide is organized into focused modules, each covering key Java concepts essential for Spring development:
@@ -33,6 +44,10 @@ This guide is organized into focused modules, each covering key Java concepts es
 
 ## 🚀 Getting Started
 
+### Option 1: Interactive Website (Recommended)
+Visit our [interactive website](https://omar-mega-byte.github.io/java-fundamentals-for-spring) for the best learning experience with search, progress tracking, and responsive design.
+
+### Option 2: GitHub Repository
 Start with Module 1 if you want a complete review, or jump to specific modules based on your needs.
 
 Each module contains:
@@ -42,6 +57,34 @@ Each module contains:
 - Common pitfalls
 - Spring Framework relevance
 - Practice exercises
+
+## 🌐 Website Features
+
+The companion website includes:
+- **Responsive Design**: Works perfectly on desktop, tablet, and mobile
+- **Advanced Search**: Find modules and topics instantly
+- **Progress Tracking**: Visual progress indicator while reading
+- **Interactive Elements**: Smooth animations and hover effects
+- **Quick Navigation**: Jump between modules effortlessly
+- **SEO Optimized**: Easy to find and share
+
+### Hosting Your Own Website
+
+To set up GitHub Pages for this repository:
+
+1. **Enable GitHub Pages**:
+   - Go to repository Settings → Pages
+   - Source: "Deploy from a branch"
+   - Branch: `main`, Folder: `/ (root)`
+
+2. **Access your site**:
+   - Visit: `https://yourusername.github.io/repository-name`
+
+The website files included:
+- `index.html` - Main website structure
+- `style.css` - Professional styling and responsive design
+- `script.js` - Interactive features and animations
+- `_config.yml` - GitHub Pages configuration
 
 ## 🤝 Contributing
 
