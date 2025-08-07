@@ -68,24 +68,6 @@ The companion website includes:
 - **Quick Navigation**: Jump between modules effortlessly
 - **SEO Optimized**: Easy to find and share
 
-### Hosting Your Own Website
-
-To set up GitHub Pages for this repository:
-
-1. **Enable GitHub Pages**:
-   - Go to repository Settings → Pages
-   - Source: "Deploy from a branch"
-   - Branch: `main`, Folder: `/ (root)`
-
-2. **Access your site**:
-   - Visit: `https://yourusername.github.io/repository-name`
-
-The website files included:
-- `index.html` - Main website structure
-- `style.css` - Professional styling and responsive design
-- `script.js` - Interactive features and animations
-- `_config.yml` - GitHub Pages configuration
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](./CONTRIBUTING.md) for details on how to help improve this guide.
