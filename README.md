@@ -7,17 +7,17 @@ A comprehensive reference guide covering essential Java concepts needed to maste
 This guide is organized into focused modules, each covering key Java concepts essential for Spring development:
 
 ### Core Language Modules
-- [Module 1: Object-Oriented Programming](./module1-oop/README.md)
-- [Module 2: Collections Framework](./module2-collections/README.md)
-- [Module 3: Exception Handling](./module3-exceptions/README.md)
-- [Module 4: Generics & Type Safety](./module4-generics/README.md)
-- [Module 5: Functional Programming](./module5-functional/README.md)
+- [Module 1: Object-Oriented Programming](./module01-oop/README.md)
+- [Module 2: Collections Framework](./module02-collections/README.md)
+- [Module 3: Exception Handling](./module03-exceptions/README.md)
+- [Module 4: Generics & Type Safety](./module04-generics/README.md)
+- [Module 5: Functional Programming](./module05-functional/README.md)
 
 ### Advanced Concepts
-- [Module 6: Reflection & Annotations](./module6-reflection/README.md)
-- [Module 7: Concurrency & Threading](./module7-concurrency/README.md)
-- [Module 8: I/O & Serialization](./module8-io/README.md)
-- [Module 9: Design Patterns](./module9-patterns/README.md)
+- [Module 6: Reflection & Annotations](./module06-reflection/README.md)
+- [Module 7: Concurrency & Threading](./module07-concurrency/README.md)
+- [Module 8: I/O & Serialization](./module08-io/README.md)
+- [Module 9: Design Patterns](./module09-patterns/README.md)
 - [Module 10: JVM & Memory Management](./module10-jvm/README.md)
 
 ### Spring Prerequisites
