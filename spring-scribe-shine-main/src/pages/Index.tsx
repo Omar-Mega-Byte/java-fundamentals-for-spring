@@ -57,6 +57,27 @@ const Index = () => {
         </div>
       </section>
 
+        {/* About This Project */}
+        <section className="py-16 bg-gradient-card border-b border-border">
+          <div className="container mx-auto px-4 text-center max-w-3xl">
+            <h2 className="text-3xl font-bold text-foreground mb-4">About This Project</h2>
+            <p className="text-lg text-muted-foreground mb-6">
+              This guide is designed for backend Java developers who want to master the core principles required for Spring Framework success. It features hands-on modules, practical exercises, and real-world examples to accelerate your learning.
+            </p>
+            <ul className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left text-muted-foreground text-base">
+              <li className="bg-background p-4 rounded-xl border border-border shadow-card">
+                <span className="font-bold text-primary">✔️ Comprehensive Coverage:</span> All essential Java topics for Spring.
+              </li>
+              <li className="bg-background p-4 rounded-xl border border-border shadow-card">
+                <span className="font-bold text-primary">✔️ Community Driven:</span> Open source and always improving.
+              </li>
+              <li className="bg-background p-4 rounded-xl border border-border shadow-card">
+                <span className="font-bold text-primary">✔️ Practice Focused:</span> MCQs, coding tasks, and solutions for every module.
+              </li>
+            </ul>
+          </div>
+        </section>
+
       {/* Module Categories */}
       <section className="py-20">
         <div className="container mx-auto px-4">
@@ -341,9 +362,9 @@ const Index = () => {
               <h4 className="font-bold text-foreground mb-4">Quick Links</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li><a href="#modules" className="hover:text-primary transition-colors">All Modules</a></li>
-                <li><a href="#" className="hover:text-primary transition-colors">Contributing</a></li>
-                <li><a href="#" className="hover:text-primary transition-colors">Changelog</a></li>
-                <li><a href="#" className="hover:text-primary transition-colors">License</a></li>
+                <li><a href="https://github.com/Omar-Mega-Byte/java-fundamentals-for-spring/blob/master/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">Contributing</a></li>
+                <li><a href="https://github.com/Omar-Mega-Byte/java-fundamentals-for-spring/blob/master/CHANGELOG.md" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">Changelog</a></li>
+                <li><a href="https://github.com/Omar-Mega-Byte/java-fundamentals-for-spring/blob/master/LICENSE" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">License</a></li>
               </ul>
             </div>
             <div>
